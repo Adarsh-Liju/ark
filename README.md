@@ -1,6 +1,12 @@
-CLOUD COMPUTING - UE20CS351
-
 # Project: Implementing Raft Logic in Go
+
+## **Team Members**
+
+1. Anirudh Rowjee
+2. Adarsh Liju Abraham
+3. Anushka Gupta
+4. Aaditya Krishna Vamshi
+
 
 ## **In this project, you will:**
 
